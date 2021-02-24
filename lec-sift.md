@@ -7,8 +7,6 @@
 ## fault isolation
 
 
-
-
 ## clock synchronization
 
 tolerate byzantine fault
